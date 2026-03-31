@@ -40,4 +40,4 @@ The skill activates when you say things like:
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+MIT: see [LICENSE](LICENSE).
