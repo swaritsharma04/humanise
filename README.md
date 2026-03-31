@@ -1,4 +1,4 @@
-# Humanise — Claude Skill
+# Humanise (Claude Skill)
 
 A custom skill for [Claude](https://claude.ai) that rewrites AI-generated text to sound like a human wrote it.
 
@@ -34,7 +34,7 @@ The skill activates when you say things like:
 
 ## Installation
 
-1. Download the `.skill` file from [Releases](../../releases).
+1. Download the `.skill` file.
 2. In Claude.ai, go to **Settings → Skills**.
 3. Upload the `.skill` file.
 
@@ -46,17 +46,6 @@ The skill activates when you say things like:
    zip -r humanise.skill humanise/
    ```
 3. Upload `humanise.skill` to Claude.
-
-## Repository structure
-
-```
-humanise-skill/
-├── README.md
-├── LICENSE
-├── .gitignore
-└── humanise/
-    └── SKILL.md        # The skill definition
-```
 
 ## License
 
